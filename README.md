@@ -9,6 +9,6 @@ The dataset contains 4800 images in total with
 - 1622 Leaf Rust
 - 960 (after refining) Crown and Root Rot
 
-A new type of technique has been utilised (by browsing multiple sources) of classifying each type of plant image into a binary array (4 arrays used) for a favourable and easy classification portrayal.
+A new type of technique has been utilised (by browsing multiple sources) of classifying each type of plant images into a binary arrays (4 arrays used) for a favourable and easy classification portrayal.
 
-For a small cycle of 30 epoch (faster model result check), a favourable score of 87% accuraccy has been achieved
+For a small cycle of 30 epoch (faster model result check), a favourable score of 87.31% accuraccy has been achieved.
