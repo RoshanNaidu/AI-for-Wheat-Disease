@@ -11,4 +11,6 @@ The dataset contains 4800 images in total with
 
 A new type of technique has been utilised (by browsing multiple sources) of classifying each type of plant image into a binary array (4 arrays used) for a favourable and easy classification portrayal alongside using Neural Networks.
 
-For a small cycle of 30 epoch only (faster model result check), a favourable score of 87.31% accuraccy has been achieved.
+For a small cycle of 30 epochs only (faster model result check), a favourable score of 87.31% accuracy has been achieved.
+
+A paper has also been put forth to publish using the results derived from this programme.
