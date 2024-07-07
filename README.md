@@ -13,4 +13,4 @@ For a small cycle of 30 epochs only (faster model result check), a favourable sc
 
 A paper has also been put forth to publish using the results derived from this programme.
 
-Feel free to contact me on my [LinedIn](www.linkedin.com/in/roshan-naidu-aka-adonis).
+Feel free to contact me on my [LinkedIn](www.linkedin.com/in/roshan-naidu-aka-adonis).
